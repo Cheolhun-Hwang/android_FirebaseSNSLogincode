@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "281240922523",
+    "firebase_url": "https://actions-hooney.firebaseio.com",
+    "project_id": "actions-hooney",
+    "storage_bucket": "actions-hooney.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281240922523:android:5d0dae84cc5bbc87",
+        "android_client_info": {
+          "package_name": "com.hch.hooney.firebasesnslogincode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281240922523-v0o4u1qgupv310r9afir6ippc7mgpdfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hch.hooney.firebasesnslogincode",
+            "certificate_hash": "80dea5f111f33abcf5c637f5deb0ce8319eb07b3"
+          }
+        },
+        {
+          "client_id": "281240922523-h0rd40s08pmsdpubocjuk3g47c070jpa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hch.hooney.firebasesnslogincode",
+            "certificate_hash": "0df5708e14286016df099089e0ea3f44ee30b749"
+          }
+        },
+        {
+          "client_id": "281240922523-iol0pf9lrf4cfj1bq4q36vj1phbve2d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Bg3CvTvbhLIy05OoqmqO2JIF5EnR0fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281240922523-3pvv4e2ki6e3debspkjqrovqi82k1pfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281240922523:android:f9ec6f9efb4be144",
+        "android_client_info": {
+          "package_name": "com.hooney.firebasesnslogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281240922523-voetnlfg7g3a1cghcsakctgp1ne4ccrk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hooney.firebasesnslogin",
+            "certificate_hash": "80dea5f111f33abcf5c637f5deb0ce8319eb07b3"
+          }
+        },
+        {
+          "client_id": "281240922523-iol0pf9lrf4cfj1bq4q36vj1phbve2d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Bg3CvTvbhLIy05OoqmqO2JIF5EnR0fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281240922523-3pvv4e2ki6e3debspkjqrovqi82k1pfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

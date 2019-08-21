@@ -94,4 +94,9 @@
     <string name="facebook_app_id">910666002602368</string>
     <string name="fb_login_protocol_scheme">fb910666002602368</string>
 
+    <string name="kakao_app_key">92ddfca42027ec2042af207ab11435d2</string>
+
+    <string name="error_message_for_service_unavailable">서비스 연결상태가 좋지 않습니다.\n\n잠시 후 다시 시도해 주세요.</string>
+    <string name="kakaotalk_login">Kakaotalk Login</string>
+
 </resources>
